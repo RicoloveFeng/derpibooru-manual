@@ -14,7 +14,7 @@ Derpibooru 的网址是 derpibooru.org，请注意 www.derpibooru.org 虽然指�
 
 点击右上角的 Register，即可注册一个账号。在本文撰写的时候，Derpibooru 已经采用了更智能的注册验证码。以前都是选 Mane6 的可爱标记来着……
 
-![QQ截图20201111114736](image/QQ截图20201111114736.png)
+![20201111114736](image/20201111114736.png)
 
 注册之后，你就可以更换头像、构建自己的 Watchlist、管理自己的过滤器、收藏自己喜欢的图片了。
 
@@ -516,7 +516,7 @@ Hide 也是同理的，这里就不赘述了。
 
 现在实战一下。我现在手上有这张照片：
 
-<img src="image/QQ图片20201209234518.jpg" style="zoom:50%;" />
+<img src="image/20201209234518.jpg" style="zoom:50%;" />
 
 
 
